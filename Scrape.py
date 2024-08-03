@@ -40,7 +40,6 @@ def load_all_articles(driver, load_more_selector, date_limit):
 def scrape_articles():
     url = "https://news.metal.com/list/industry/aluminium"
     
-    # Setup Chrome options
     chrome_options = Options()
     chrome_options.add_argument("--headless")  # Run in headless mode
     chrome_options.add_argument("--disable-gpu")
