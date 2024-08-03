@@ -1,6 +1,6 @@
 beautifulsoup4==4.12.3
 faiss_cpu==1.8.0.post1
-numpy==2.0.1
+numpy==1.21.0  
 openai==0.28.0
 pandas==2.2.2
 python-dotenv==1.0.1
