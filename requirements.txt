@@ -1,7 +1,9 @@
-streamlit
-pandas
-openai
-numpy
-faiss-cpu
-scikit-learn
-python-dotenv
+beautifulsoup4==4.12.3
+faiss_cpu==1.8.0.post1
+numpy==2.0.1
+openai==0.28.0
+pandas==2.2.2
+python-dotenv==1.0.1
+scikit_learn==1.4.2
+selenium==4.23.1
+streamlit==1.32.2
